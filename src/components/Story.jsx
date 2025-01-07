@@ -67,7 +67,7 @@ const FloatingImage = () => {
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
-                  src="/img/entrance.webp"
+                  src="/img/feature-1.png"
                   alt="entrance.webp"
                   className="object-contain"
                 />
