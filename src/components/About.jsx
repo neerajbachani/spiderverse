@@ -20,8 +20,8 @@ const About = () => {
     });
 
     clipAnimation.to(".mask-clip-path", {
-      width: "100vw",
-      height: "100vh",
+      width: "80vw",
+      height: "80vh",
       borderRadius: 0,
     });
   });

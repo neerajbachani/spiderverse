@@ -131,7 +131,7 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                Mil<b>e</b>s
               </>
             }
             description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
